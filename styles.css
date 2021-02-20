@@ -11,3 +11,8 @@ h1:hover {
   background-color: salmon;
   cursor: pointer;
 }
+
+p {
+  font-size: 2rem;
+  color: seagreen;
+}
