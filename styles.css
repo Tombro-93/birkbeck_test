@@ -1,0 +1,13 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  font-size: 4rem;
+  color: rebeccapurple;
+  text-align: center;
+  transition: 1s;
+}
+h1:hover {
+  background-color: salmon;
+  cursor: pointer;
+}
